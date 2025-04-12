@@ -1,5 +1,6 @@
 # almakv-software-pack
 
+https://ninite.com/
 #iso OS h1
 -win 10
 win 11
@@ -27,4 +28,12 @@ jeetbrains:
     toolbox
     some Extensions
 
+
+
+https://www.softportal.com/software-41415-easybcd.html
+https://www.softportal.com/software-152-winrar.html
+https://www.softportal.com/software-2464-ultraiso.html
+https://www.softportal.com/software-30994-rufus.html
+
+https://www.softportal.com/software-5406-notepad.html
 
